@@ -1,0 +1,5 @@
+<launch>
+
+    <node name="voice_to_text" pkg="voice_recognizer" type="voice_text_publisher.py" output="screen" />
+
+</launch>
